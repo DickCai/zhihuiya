@@ -1,2 +1,0 @@
-# zhihuiya
-zhihuiya
